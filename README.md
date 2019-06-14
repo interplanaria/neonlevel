@@ -26,7 +26,7 @@ You will see that, at first Bitbus starts synchronizing. And after that's done, 
 
 ![term](term.png)
 
-> If you want to see the result faster, you may want to tweak the "from" attribute to start crawling from later height
+> If you want to see the result faster, you may want to tweak the ["from"](https://github.com/interplanaria/neonlevel/blob/master/index.js#L8) attribute to start crawling from later height
 
 Step 4. Start Planarium
 
