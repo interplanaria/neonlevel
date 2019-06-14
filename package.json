@@ -1,0 +1,13 @@
+{
+  "name": "neonlevel",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "interlevel": "0.0.6",
+    "level": "^5.0.1",
+    "neonplanaria": "0.0.15"
+  }
+}
